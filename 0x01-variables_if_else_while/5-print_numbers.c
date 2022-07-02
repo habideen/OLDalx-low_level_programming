@@ -6,10 +6,7 @@
  */
 int main(void)
 {
-	int a = 0;
-
-	while (a < 10)
-		printf("%d", a++);
+	print("0123456789\n");
 
 	return (0);
 }
