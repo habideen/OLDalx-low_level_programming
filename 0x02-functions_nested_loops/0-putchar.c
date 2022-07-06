@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * main -  Program to print _putchar
  * File: 0-putchar.c
  * Author: Habideen Ibrahim
