@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * main -  Program to print _putchar
+ * Return: will retun 0
  * File: 0-putchar.c
  * Author: Habideen Ibrahim
  */
