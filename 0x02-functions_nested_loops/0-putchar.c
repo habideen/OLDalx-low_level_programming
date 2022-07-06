@@ -4,7 +4,6 @@
  * File: 0-putchar.c
  * Author: Habideen Ibrahim
  */
-
 int main(void)
 {
 	int a = 0;
