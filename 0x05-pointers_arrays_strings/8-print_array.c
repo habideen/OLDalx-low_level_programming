@@ -10,9 +10,9 @@ void print_array(int *a, int n)
 {
 	int incr;
 
-	for (inc = 0; incr < n ; incr++)
+	for (incr = 0; incr < n ; incr++)
 	{
-		if (inc != n - 1)
+		if (incr != n - 1)
 			printf("%d, ", a[incr]);
 		else
 			printf("%d", a[incr]);
