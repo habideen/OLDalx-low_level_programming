@@ -6,7 +6,7 @@
  * @dest: String that will be appended
  * @src: String to be concatenated upon
  * description: This function appends the src string
- * to the dest string, overwriting the terminating null 
+ * to the dest string, overwriting the terminating null
  * byte (\0) at the end of dest, and then adds a terminating
  * null byte
  * Return: returns poiner to @dest
