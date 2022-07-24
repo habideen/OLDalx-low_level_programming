@@ -1,6 +1,6 @@
 # Recursion
 
-According to [https://www.cpp.edu/~ftang/courses/CS240/lectures/recursion.htm#:~:text=In%20computer%20science%2C%20recursion%20is,one%20called%20to%20the%20first.](cpp.edu), recursion is a programming technique using function or algorithm that calls itself one or more times until a specified condition is met at which time the rest of each repetition is processed from the last one called to the first.
+According to [cpp.edu](https://www.cpp.edu/~ftang/courses/CS240/lectures/recursion.htm#:~:text=In%20computer%20science%2C%20recursion%20is,one%20called%20to%20the%20first.), recursion is a programming technique using function or algorithm that calls itself one or more times until a specified condition is met at which time the rest of each repetition is processed from the last one called to the first.
 
 This project uses various recursion techniques to solve some problem. The purpose is to make sure that students are able to explain and implement recursio without the help of internet.
 
