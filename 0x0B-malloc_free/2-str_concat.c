@@ -7,8 +7,8 @@
 * and return a new pointer to the result
 * @s1: First string
 * @s2: Second string
-*Return: NULL in case of failure , but pointer to new string in
-*case of success
+* Return: NULL in case of failure , but pointer to new string in
+* case of success
 */
 
 char *str_concat(char *s1, char *s2)
