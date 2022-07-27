@@ -7,7 +7,7 @@
 * space in memory, which contains a copy of the
 * string given as a parameter.
 * @str: String to be copied
-* Return: NULL if error or pointer to allocated space
+* Return:  NULL if error or pointer to allocated space
 */
 
 char *_strdup(char *str)
