@@ -21,7 +21,7 @@ int *array_range(int min, int max)
 
 	if (mem_block != NULL)
 	{
-		for (i = min; x <= max; x++)
+		for (x = min; x <= max; x++)
 		{
 			mem_block[y] = x;
 			y++;
