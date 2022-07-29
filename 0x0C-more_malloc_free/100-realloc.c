@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
+#include <math.h>
 
 /**
 * _realloc - reallocates a memory block
