@@ -425,3 +425,28 @@ julien@ubuntu:~/0x14. Binary$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x14-bit_manipulation`
 -   File: `100-get_endianness.c`
+
+
+
+
+### 7\. Crackme3
+
+#advanced
+
+Find the password for [this program](https://github.com/holbertonschool/0x13.c "this program").
+
+-   Save the password in the file `101-password`
+-   Your file should contain the exact password, no new line, no extra space
+
+```
+julien@ubuntu:~/0x14. Binary$ ./crackme3 `cat 101-password`
+Congratulations!
+julien@ubuntu:~/0x14. Binary$
+
+```
+
+**Repo:**
+
+-   GitHub repository: `alx-low_level_programming`
+-   Directory: `0x14-bit_manipulation`
+-   File: `101-password`
