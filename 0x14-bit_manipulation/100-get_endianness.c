@@ -3,7 +3,7 @@
 
 
 /**
-* get_endianness - checks whether a machine is 
+* get_endianness - checks whether a machine is
 * big a endian or little
 *
 * Return: 1 if little endian, 0 if little
